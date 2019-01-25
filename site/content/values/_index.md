@@ -2,7 +2,7 @@
 title: "Values"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Secure and Highly Available Systems"
     text: >
       Coffee is a small tree or shrub that grows in the forest
       understory in its wild form, and traditionally was grown
@@ -36,10 +36,10 @@ values:
     imageUrl: "/img/about-direct-sourcing.jpg"
   - heading: "Reinvest profits"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      We want to truly empower the communities that help bring amazing
+      software to you. That’s why we reinvest 20% of our profits into
+      open source projects, communities, and non-profits focused on
+      software. You can see and learn more about the communities I'm
+      supporting and growing on my blog.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---

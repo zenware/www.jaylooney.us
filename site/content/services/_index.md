@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Our Services
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
@@ -99,4 +99,4 @@ pricing:
       price: '?'
 ---
 
-
+Photo by José Alejandro Cuffia on Unsplash
