@@ -1,20 +1,21 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Delivering performant software since 2012"
+subtitle: ""
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why me?
+    text: "I believe that software should be able to change and adapt to new requirements, perform well, make sense, and be great experience for everyone, especially the end-user. I use modern best practices to acheive high quality solutions and open source projects to save time and to give back I make sure part of the profits are reinvested in those open source communities."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "What I offer"
+    text: "I have been designing and developing internal applications, internet facing websites, web scrapers, data analytics tools, courseware, etc. for over 10 years."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "I work on bespoke web design and development projects and help ensure my clients achieve a final product that will help them meet their business or marketing objectives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: My values
+    text: I develop quality software that sucks less, User Experience is key in everything I do.
 ---
 
+Photo by Clément H on Unsplash
